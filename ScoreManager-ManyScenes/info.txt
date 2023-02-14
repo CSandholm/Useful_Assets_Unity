@@ -1,0 +1,1 @@
+RecordMenu: For specific RecordMenu, using seconds from scoremanager - counting it to min and secs.
